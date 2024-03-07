@@ -1,5 +1,5 @@
 // slideshow main section
-const slideshowImgSrc = ["img/wernerosterc.jpg", "img/sea1.jpg", "img/sights1.jpg", "img/city2.jpg"]
+const slideshowImgSrc = ["img/wernerost.jpg", "img/sea1.jpg", "img/sights1.jpg", "img/city2.jpg"]
 const slideshowImgBack = document.querySelector(".slideshow-img-back")
 const slideshowImgFront = document.querySelector(".slideshow-img-front")    // this img gets a looped opacity
 let i = 1   // to change the state of the slideshow
